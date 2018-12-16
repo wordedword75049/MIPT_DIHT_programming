@@ -1,1 +1,0 @@
-# MIPT_DIHT_programming
